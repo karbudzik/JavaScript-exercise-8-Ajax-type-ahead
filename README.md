@@ -1,5 +1,5 @@
 # JavaScript exercise 8 - Ajax type ahead
-> Another practical project while learning JavaScript, this time I'm searching through JSON file to find cities and states of USA. [Click here to preview](https://karbudzik.github.io/JavaScript-exercise-8-ajax-type-ahead/) 
+> Another practical project while learning JavaScript, this time I'm searching through JSON file to find cities and states of USA. [Click here to preview](https://karbudzik.github.io/JavaScript-exercise-8-Ajax-type-ahead/) 
 
 ## Screenshots
 ![Gallery_screenshot](/screen.jpg)
